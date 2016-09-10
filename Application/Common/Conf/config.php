@@ -7,8 +7,8 @@ return array(
         'saveName' => array ('uniqid', ''),
         'driver' => 'Qiniu',
         'driverConfig' => array (
-            'secretKey' => 'your qiniu sk'  //七牛sk
-            'accessKey' => 'your qiniu ak'  //七牛ak
+            'secretKey' => 'your qiniu sk', //七牛sk
+            'accessKey' => 'your qiniu ak',  //七牛ak
             'domain' => 'your qiniu domain', //域名
             'bucket' => 'your qiniu bucket', //空间名称
         )
